@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+*.py[cod]
+__pycache__/
+
+# Shell script output and temporary files
+*.sh~
+*.tmp
+tmp/
+
+# Log files
+*.log
+
+# FSF files and POSSUM setup (if they are generated and not meant for version control)
+*.fsf
+
+# Output simulation directories (e.g., default "simdir" or other output directories)
+simdir/
+output/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
